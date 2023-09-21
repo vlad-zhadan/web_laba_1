@@ -14,8 +14,8 @@ p{
 
 ul{
     margin-block-start: 0em;
-        margin-block-end: 0em;
-            padding-inline-start: 2vmin;
+    margin-block-end: 0em;
+    padding-inline-start: 2vmin;
 }
 
 .border{
@@ -83,6 +83,10 @@ footer{
     margin: 2vmin;
 }
 
+/* .btn-group{
+    max-width: 20%;
+} */
+
 .btn-group .button {
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(55,
@@ -98,7 +102,7 @@ footer{
     text-align: center;
     text-decoration: none;
     cursor: pointer;
-    width: 25vmin;
+    width: 15vw;
     display: block;
     margin-bottom: 2vmin;
     font-size: 2.5vmin;
