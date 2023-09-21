@@ -12,7 +12,7 @@ p{
     margin-block-end: 0;
 }
 
-ul{
+ol, ul{
     margin-block-start: 0em;
     margin-block-end: 0em;
     padding-inline-start: 2vmin;
@@ -40,11 +40,11 @@ footer{
     font-size: 2vmin;
 }
 
-.header-slogan,
+/* .header-slogan,
 .footer-slogan{
 
     margin: 0 0 0 auto ;
-}
+} */
 
 .find-left-bar,
 .bottom-center-bar{
@@ -68,7 +68,12 @@ footer{
     background-color: rgb(40,
         88,
         123);
+    padding: 1% 2%;
+    justify-content: space-between;
+    align-items: center;
 }
+
+
 
 .header{
     border-bottom: 0.7vmin solid rgb(55,
