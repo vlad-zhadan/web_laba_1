@@ -40,11 +40,10 @@ footer{
     font-size: 2vmin;
 }
 
-/* .header-slogan,
-.footer-slogan{
-
-    margin: 0 0 0 auto ;
-} */
+.header-slogan{
+    padding: 0 2% ;
+    
+}
 
 .find-left-bar,
 .bottom-center-bar{
@@ -155,6 +154,11 @@ footer{
                 113,
                 142);;
 }
+
+.footer-slogan{
+    padding: 0 2% 0 0;
+}
+
 
 
 .find-left-bar,
